@@ -1,0 +1,7 @@
+one\sunny\judgeservice\vo\JudgeVo.class
+one\sunny\judgeservice\entity\JudgeBean.class
+one\sunny\judgeservice\entity\LanguageConfig.class
+one\sunny\judgeservice\entity\Run.class
+one\sunny\judgeservice\controller\JudgeController.class
+one\sunny\judgeservice\JudgeApplication.class
+one\sunny\judgeservice\entity\Compile.class

@@ -1,0 +1,6 @@
+one\sunny\user\mapper\UserMapper.class
+one\sunny\user\service\impl\UserServiceImpl.class
+one\sunny\user\controller\UserController.class
+one\sunny\user\service\UserService.class
+one\sunny\user\UserApplication.class
+one\sunny\user\entity\User.class
